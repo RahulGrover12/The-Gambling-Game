@@ -6,10 +6,9 @@ The player is asked for username
 
 User is asked to play game (y/ n)?
 
-if y playes the game otherwise exit.
+if User press y he plays the game otherwise exit.
 
-User is invited to guess a number
-
+User is invited to guess a number then
 Computer guesses the number
 
 if the player is within 20 of the computer’s number: 
